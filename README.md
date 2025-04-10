@@ -17,3 +17,7 @@ All hardware is licensed under [Attribution-ShareAlike 4.0 International (CC BY-
 
 ## Additional Details
 For more information, such as how to connect to the Raspberry Pi Zero, please check out the [wiki](https://github.com/xquared-design/TeamTimothy/wiki).
+
+<!-- ABOUT MMC START -->
+
+<!-- ABOUT MMC END -->
